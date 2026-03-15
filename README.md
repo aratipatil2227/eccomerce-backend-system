@@ -145,5 +145,5 @@ Implement Order Tracking System
 **Database Schema**
 ![Project overview](ee26853f-afdc-431a-b060-2534adefadca.png)
 
--![visual jira board for E-commerece backend project]( )
+-![visual jira board for E-commerece backend project](17735549182537967636554406088823.png )
 
