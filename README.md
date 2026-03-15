@@ -1,4 +1,4 @@
-# eccomerce-backend-system
+# Ecommerce-backend-system
 🛒 E-Commerce Backend System
 📌 Project Description
 
@@ -141,6 +141,9 @@ Develop Frontend using ReactJS
 Add Payment Gateway Integration
 
 Implement Order Tracking System
+-
 **Database Schema**
 ![Project overview](ee26853f-afdc-431a-b060-2534adefadca.png)
+
+-![visual jira board for E-commerece backend project]( )
 
